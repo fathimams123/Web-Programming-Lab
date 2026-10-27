@@ -1,0 +1,39 @@
+div {
+            text-align: center;
+     }
+ 
+textarea {
+      
+      min-width: 25%;
+      height: 70px;
+      
+    }   
+    
+fieldset {
+      padding: 15px;
+      margin-bottom: 15px;
+      background-color:skyblue;
+    }
+    
+form {
+      padding:25px; 
+    }
+    
+h1 {
+      text-align: center;
+    }
+    
+input[type=submit] {
+  background-color: darkgreen;
+  color: white;
+   
+}
+
+input[type=reset] {
+  background-color: darkgreen;
+  color: white;
+  
+}    
+
+    
+
